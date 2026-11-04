@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://kynaroid.com/api/protected?id=Whitelist"))()
+loadstring(game:HttpGet("https://kynaroid.vercel.app/api/protected?id=Whitelist"))()
