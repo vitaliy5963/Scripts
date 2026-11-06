@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/TimHortonsTown"))()
+loadstring(game:HttpGet("https://kynaroid.vercel.app/api/protected?id=TimHortonsTown"))()
